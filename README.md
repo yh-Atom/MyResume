@@ -27,15 +27,16 @@
 
 计算机水平：熟悉操作office
 
-技术: java方向**     ²  CSS，HTML，Ajax，C，java，MySQL数据库，git，SSH框架，SSM框架等     ²  
-
-了解：js，bootstrap，python，SpringMVC，Android，Linux等      
+技术: java方向**    
+²  CSS，HTML，Ajax，C，java，MySQL数据库，git，SSH框架，SSM框架等    
+²  了解：js，bootstrap，python，SpringMVC，Android，Linux等      
 
 高内聚，低耦合；注释多，易读好
 
 ### **教育经历**                                                               
 
-**2015.09~2019.06**           **萍乡学院             软件工程         全日制本科**                                       ²  主修课程：计算机基础，计算机网络，计算机组成，数据结构，C语言，java编程，javaweb开发，SSH框架，安卓等。
+**2015.09~2019.06**           **萍乡学院             软件工程         全日制本科**                                      
+²  主修课程：计算机基础，计算机网络，计算机组成，数据结构，C语言，java编程，javaweb开发，SSH框架，安卓等。
 
 ### 个人项目（github:https://github.com/yh-Atom）
 
